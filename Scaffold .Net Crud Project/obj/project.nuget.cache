@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GbKC3XCYg+kgK8e4DXqSgl7u1IiXmZmCW1vgbMfA+WLunwgzUQ+wWU7RrXzUHtJFWSCG05b3GIvuIIq5ayvH0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VishalWaman\\source\\repos\\Scaffold .Net Crud Project\\Scaffold .Net Crud Project\\Scaffold .Net Crud Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
